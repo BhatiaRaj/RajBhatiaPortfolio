@@ -150,7 +150,7 @@
                         locked = false;
                     }, delay);
 
-                }, 5);
+                }, 25);
 
             }, delay);
 
