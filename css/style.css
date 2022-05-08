@@ -1265,7 +1265,7 @@ body.is-preload #bg:before {
     display: -moz-flex;
     display: -webkit-flex;
     display: -ms-flex;
-    display: flex;
+    display: flow-root;
     -moz-flex-direction: column;
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
