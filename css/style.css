@@ -1749,9 +1749,9 @@ ul {
     margin: auto;
     overflow: hidden;
     padding: 20px;
-    margin-top: 50px;
+    margin-top: -45px;
     position: relative;
-    width: 600px;
+    /* width: 600px; */
 }
 
 #slider li {
